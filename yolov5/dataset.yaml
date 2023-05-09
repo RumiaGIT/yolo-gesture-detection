@@ -1,0 +1,9 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: ../data/Hand Gesture.v6i.yolov5pytorch
+train: train/images
+val: valid/images
+test: test/images
+
+# Classes
+nc: 7
+names: ['Down', 'Left', 'Right', 'Stop', 'Thumbs Down', 'Thumbs up', 'Up']
