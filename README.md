@@ -12,10 +12,10 @@ Examples:
 
 ## Contents
 ~~~
-/data:                          Dataset used during the project.
-/images:                        Images and examples used in the Jupyter Notebook and readme.
-/yolov5:                        The YOLOv5 model and all its utilities.
-README.md:                      You're reading it.
-yolo_gesture_detection.ipynb:   Code for the creation, training, testing, and evaluation of a YOLOv5 model.
-yolov5s.pt:                     A small YOLOv5 model, downloaded from the PyTorch hub.
+/data:                         Dataset used during the project.
+/images:                       Images and examples used in the Jupyter Notebook and readme.
+/yolov5:                       The YOLOv5 model and all its utilities.
+README.md:                     You're reading it.
+yolo_gesture_detection.ipynb:  Code for the creation, training, testing, and evaluation of a YOLOv5 model.
+yolov5s.pt:                    A small YOLOv5 model, downloaded from the PyTorch hub.
 ~~~
